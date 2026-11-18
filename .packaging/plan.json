@@ -1,0 +1,14 @@
+{
+  "build_script": "vite build --config vite/config.prod.mjs",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "Nico7522/space-battle",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "06631646becd93b2280a5da9cfe556b1dce6c9fa"
+}
